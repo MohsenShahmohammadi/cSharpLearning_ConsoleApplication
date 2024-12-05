@@ -49,6 +49,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06-05-Constactor", "S06-05
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06-06_thisInMethode", "S06-06_thisInMethode\S06-06_thisInMethode.csproj", "{BE15FE90-0337-473E-B59B-95C69FCC9611}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06-07 readonly const var", "S06-07 readonly const var\S06-07 readonly const var.csproj", "{611B9B4B-4A6A-4A86-A774-FFC5975F3F7C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -131,6 +133,10 @@ Global
 		{BE15FE90-0337-473E-B59B-95C69FCC9611}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BE15FE90-0337-473E-B59B-95C69FCC9611}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BE15FE90-0337-473E-B59B-95C69FCC9611}.Release|Any CPU.Build.0 = Release|Any CPU
+		{611B9B4B-4A6A-4A86-A774-FFC5975F3F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{611B9B4B-4A6A-4A86-A774-FFC5975F3F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{611B9B4B-4A6A-4A86-A774-FFC5975F3F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{611B9B4B-4A6A-4A86-A774-FFC5975F3F7C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -155,6 +161,7 @@ Global
 		{707D7E79-148F-477A-9111-613FEE26A50A} = {84E76052-D7E5-4982-9BB1-DD409168B6A6}
 		{681CB02C-7470-4E16-8C1C-2D2E1145F498} = {84E76052-D7E5-4982-9BB1-DD409168B6A6}
 		{BE15FE90-0337-473E-B59B-95C69FCC9611} = {84E76052-D7E5-4982-9BB1-DD409168B6A6}
+		{611B9B4B-4A6A-4A86-A774-FFC5975F3F7C} = {84E76052-D7E5-4982-9BB1-DD409168B6A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C3ACD9AD-8A71-48C2-B573-5050496CC002}
