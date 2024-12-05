@@ -47,6 +47,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06-04-methodInClass", "S06
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06-05-Constactor", "S06-05-Constactor\S06-05-Constactor.csproj", "{681CB02C-7470-4E16-8C1C-2D2E1145F498}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "S06-06_thisInMethode", "S06-06_thisInMethode\S06-06_thisInMethode.csproj", "{BE15FE90-0337-473E-B59B-95C69FCC9611}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -125,6 +127,10 @@ Global
 		{681CB02C-7470-4E16-8C1C-2D2E1145F498}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{681CB02C-7470-4E16-8C1C-2D2E1145F498}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{681CB02C-7470-4E16-8C1C-2D2E1145F498}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BE15FE90-0337-473E-B59B-95C69FCC9611}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BE15FE90-0337-473E-B59B-95C69FCC9611}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BE15FE90-0337-473E-B59B-95C69FCC9611}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BE15FE90-0337-473E-B59B-95C69FCC9611}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -148,6 +154,7 @@ Global
 		{3A60C343-3434-4BEA-933B-531378371CF0} = {84E76052-D7E5-4982-9BB1-DD409168B6A6}
 		{707D7E79-148F-477A-9111-613FEE26A50A} = {84E76052-D7E5-4982-9BB1-DD409168B6A6}
 		{681CB02C-7470-4E16-8C1C-2D2E1145F498} = {84E76052-D7E5-4982-9BB1-DD409168B6A6}
+		{BE15FE90-0337-473E-B59B-95C69FCC9611} = {84E76052-D7E5-4982-9BB1-DD409168B6A6}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {C3ACD9AD-8A71-48C2-B573-5050496CC002}
